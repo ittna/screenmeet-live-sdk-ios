@@ -7,6 +7,7 @@
 
 import UIKit
 import ScreenMeetLive
+import RxSwift
 
 class ConnectViewController: UIViewController {
     @IBOutlet weak var bottomInfoView: UIView!
